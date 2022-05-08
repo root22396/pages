@@ -1,0 +1,1 @@
+class FamilyDataPossibilities1Model {}
